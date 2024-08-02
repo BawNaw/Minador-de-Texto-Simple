@@ -1,0 +1,2 @@
+Este programa es creado con la intención de "Minar Texto" de la forma más basica que es contando palabras y buscando palabras de un texto dado. Para este programa se dio la instucción de crearlo con una interfaz grafica sencilla.
+El resultado de esto, esta todo en un solo archivo "main.py".
